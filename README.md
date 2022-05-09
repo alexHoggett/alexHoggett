@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alex, a fullstack developer and graduate of Creative Computing from Goldsmiths, University of London (Where i got first class honours 🙌🏼)
+I'm Alex, a fullstack developer and graduate of (BSc) Creative Computing from Goldsmiths, University of London (Where i got first class honours 🙌🏼)
 
 - 😄 Pronouns: He/They. 
 - 🔭 I’m currently working on a diet tracking web app 🦾.
