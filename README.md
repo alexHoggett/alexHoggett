@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 I'm Alex, a fullstack developer and graduate of (BSc) Creative Computing from Goldsmiths, University of London (Where i got first class honours 🙌🏼)
 
