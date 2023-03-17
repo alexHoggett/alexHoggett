@@ -47,6 +47,8 @@ I'm Alex, a fullstack developer and graduate of (BSc) Creative Computing from Go
 
 </div>
 
+### Project Directory
+
 | Project                                                     | Description                                                                                                                                                                          | Technologies                                                                           |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
 | [StepFreeGigs](https://github.com/alexHoggett/StepFreeGigs) | A mobile app for Android and iOS that finds wheelchair accessible events in the users area and calculates a wheelchair accessble route to the venue.                                 | React Native, Expo, Express, Jest, React Testing Library, React Native Testing Library |
