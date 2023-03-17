@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Alex, a fullstack developer and graduate of (BSc) Creative Computing from Goldsmiths, University of London (Where i got first class hons 🙌🏼)
+I'm Alex, a fullstack developer and graduate of Software Engineering from Makers Academy and (BSc) Creative Computing from Goldsmiths, University of London (Where i got first class hons 🙌🏼)
 
 - 😄 Pronouns: He/They. 
 - 🔭 I’m currently working on a [Johari Window](https://en.wikipedia.org/wiki/Johari_window) application.
