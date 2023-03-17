@@ -59,4 +59,4 @@ I'm Alex, a fullstack developer and graduate of (BSc) Creative Computing from Go
 | [Chordspot](https://github.com/alexHoggett/ChordSpot)       | An openFrameworks program that can identify guitar chords                                                                                                                            | C++, openFrameworks, Maximilian                                                        |
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexHoggett)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexHoggett&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
