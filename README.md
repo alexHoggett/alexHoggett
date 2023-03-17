@@ -47,3 +47,13 @@ I'm Alex, a fullstack developer and graduate of (BSc) Creative Computing from Go
 
 </div>
 
+| Project                                                     | Description                                                                                                                                                                          | Technologies                                                                           |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| [StepFreeGigs](https://github.com/alexHoggett/StepFreeGigs) | A mobile app for Android and iOS that finds wheelchair accessible events in the users area and calculates a wheelchair accessble route to the venue.                                 | React Native, Expo, Express, Jest, React Testing Library, React Native Testing Library |
+| [acebook](https://github.com/alexHoggett/acebook-mern-fire) | A clone of social media site facebook, features include user authentication, friends lists, posts and post interactions. Developed over the makers bootcamp to study the MERN stack. | MongoDB, Express, React, Node.js, Cypress, Jest, React Router v6                       |
+| [chat-app](https://github.com/alexHoggett/chat-app)         | An instant messaging application, built to demonstrate and soldify my skills in full-stack development, with Node and React                                                          | React.js, Node.js, SASS, Socket.io, Express, Jest, React Router v6                     |
+| [diet-app](https://github.com/alexHoggett/diet)             | Users can create an account, and log the nutritional content of their foods in a day. I used the nutritionix api and it's database of over 200,000 foods                             | Javascript, SASS, Node.js, Express, Passport, MySQL, JQuery, HTML, CSS, EJS            |
+| [SouthLondonDoula](https://robynlnalty.co.uk/) | A custom site for a personal an independant business, designed and coded entirely from scratch by me | HTML5, CSS3, JS, Wordpress, PHP, SASS |
+| [Chordspot](https://github.com/alexHoggett/ChordSpot)       | An openFrameworks program that can identify guitar chords                                                                                                                            | C++, openFrameworks, Maximilian                                                        |
+
+
