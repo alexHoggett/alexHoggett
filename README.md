@@ -6,9 +6,10 @@ I'm Alex, a fullstack developer and graduate of Software Engineering from Makers
 - 🔭 I’m currently working on a [Johari Window](https://en.wikipedia.org/wiki/Johari_window) application.
 - 🌱 I’m currently learning Typescript 😈.
 - 👯 I’m looking to collaborate with designers.
-- 🤔 I’m looking for help with career advice.
 - 💬 Ask me about my ideal future 👊🏼.
 - 📫 How to reach me: By email, I'm at alexmh99@gmail.com.
+
+You can check out my portfolio at [alexhoggett.zyx](https://www.alexhoggett.xyz/), i've also listed all my projects here, to save you the runaround ☺️
 
 #### Technologies i've worked with:
 
