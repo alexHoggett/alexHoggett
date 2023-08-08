@@ -7,7 +7,7 @@ I'm Alex, a fullstack developer and graduate of Software Engineering from Makers
 - 🌱 I’m currently learning Typescript 😈.
 - 👯 I’m looking to collaborate with designers.
 - 💬 Ask me about my ideal future 👊🏼.
-- 📫 How to reach me: By email, I'm at alexmh99@gmail.com.
+- 📫 How to reach me: By email, I'm at alex.shabib.hoggett@proton.me.
 
 You can check out my portfolio at [alexhoggett.zyx](https://www.alexhoggett.xyz/), i've also listed all my projects here, to save you the runaround ☺️
 
