@@ -22,4 +22,4 @@ You can check out my portfolio at [alexhoggett.zyx](https://www.alexhoggett.xyz/
 | [SouthLondonDoula](https://robynlnalty.co.uk/) | A custom site for a personal an independant business, designed and coded entirely from scratch by me | HTML5, CSS3, JS, Wordpress, PHP, SASS |
 | [Chordspotter](https://github.com/alexHoggett/ChordSpot)       | An openFrameworks program that can identify guitar chords                                                                                                                            | C++, openFrameworks, Maximilian                                                        |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexHoggett&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <> ([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexHoggett&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats))
